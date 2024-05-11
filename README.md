@@ -2,7 +2,7 @@
 
 <h1> Hi, I'm Robson! 👋 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonsoaresdev/)](https://www.linkedin.com/in/robsonsoaresdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlimadeveloper/)](https://www.linkedin.com/in/robsonlimadeveloper/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsonlimadeveloper@gmail.com)](mailto:robsonlimadeveloper@gmail.com)
 
 ## My Name is Robson Soares - **Software Engineering** 
