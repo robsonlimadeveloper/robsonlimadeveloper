@@ -11,7 +11,8 @@
 
 
 - Software Engineering - Federal University of Paraíba
-- I completed my degree in 2019 and worked on several projects involving embedded systems, backend (Python | Flask) and currently mobile development (Android | Java) 😎
+- I completed my degree in 2019 and worked on several projects involving embedded systems, backend (Python | Flask).
+I currently work on mobile development (Android | Java) for smart payment terminals (PAX | Newland | Positivo) 😎
 - Check out some of my personal projects 😃
 
  <a  href="https://github.com/anuraghazra/github-readme-stats">
