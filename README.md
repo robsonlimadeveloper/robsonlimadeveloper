@@ -7,23 +7,12 @@
 
 ## My Name is Robson Soares - **Software Engineer** 
 
-(Python | Flask | SQLAlchemy | MySQL | Java | Android | Arduino | Postgress | ORMs | REST) 🚀
-
 **Science Computer** - _Federal University of Paraíba - UFPB_
 
-I completed my degree in 2019 and worked on several projects involving:
+I work on several projects involved: 🚀
 - **embedded systems** _(Arduino | ESP32 | Raspberry Pi)_
-- **backend** _(Python | Flask | SQLAlchemy | MySQL | Docker)_.
+- **backend** _(Python | Flask | Fast API | SQLAlchemy | MySQL | PostgreSQL | Docker)_.
 - **mobile development** _(Android | Java)_ for _smart payment terminals (PAX | Newland | Positivo)_. 😎
-
-Check out some of my personal projects 😃
-
- <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=robsonlimadeveloper&layout=compact&langs_count=7&theme=sunset-gradient" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=robsonlimadeveloper&show_icons=true&theme=sunset-gradient&include_all_commits=true&count_private=true" />
-</a>
 
 ###
 
