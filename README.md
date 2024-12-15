@@ -15,7 +15,7 @@ I work on several projects involved: 🚀
 - **mobile development** _(Android | Java)_ for _smart payment terminals (PAX | Newland | Positivo)_. 😎
 
 ###
-
+<a href='https://ko-fi.com/V7V717GRV1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <h2 align="left">I code with</h2>
 
 ###
